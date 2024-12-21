@@ -23,7 +23,7 @@ export function Header({ currentTime }: HeaderProps) {
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2 bg-white/50 backdrop-blur-sm py-2 px-4 rounded-full shadow-sm">
             <MapPin className="text-pink-500" />
-            <span className="text-pink-600">拉萨 ➜ 北京 ➜ 秦皇岛</span>
+            <span className="text-pink-600">拉萨 ➜ 北京 ➜ 唐山</span>
           </div>
           <div className="flex items-center gap-2 bg-white/50 backdrop-blur-sm py-2 px-4 rounded-full shadow-sm">
             <Calendar className="text-blue-500" />
