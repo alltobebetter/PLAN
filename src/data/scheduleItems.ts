@@ -16,7 +16,7 @@ export const scheduleItems = [
     description: '今天的考试结束啦！派蒙要带你去吃好吃的犒劳一下！',
   },
   {
-    time: '12月 21',
+    time: '12月 21-22',
     description: '旅行者，要积极备战考试哦！派蒙会给你加油鼓劲的！',
   },
   {
